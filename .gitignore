@@ -1,0 +1,16 @@
+# Compiled Go files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of go build
+mcp_mongo_server
+
+# Go workspace files
+.idea/
+*.iml
+
+# Go package files
+vendor/ 
